@@ -42,13 +42,6 @@ Currently in my 2nd semester of Software Engineering, focused on growth, consist
 
 ---
 
-## 📊 GitHub Stats
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🤝 Let's Connect
 
