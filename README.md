@@ -1,58 +1,15 @@
-# 👋 Hi, I'm Rodrigo Reis
+# Rodrigo Reis
 
-💻 **Software Engineering Student | Aspiring Full Stack Developer**
+### Software Engineering Student
 
-🚀 Passionate about building real-world solutions and transforming ideas into scalable products.
-Currently in my 2nd semester of Software Engineering, focused on growth, consistency, and strong fundamentals.
+I'm a software engineering student with a passion for technology, problem-solving, and continuous learning. I focus on building clean and efficient solutions while strengthening my foundations in software development and backend engineering.
 
----
-
-## 🚀 Career Goals
-
-* 💼 Become a **Full Stack Developer**
-* 🚀 Build and launch **startup projects**
-* 🌍 Work at a **high-impact tech company**
+Currently, I work with Java, Spring Boot, Docker, Git, and Python, developing projects that help me improve my technical skills and gain real-world experience. I enjoy transforming ideas into scalable applications and continuously exploring new technologies to become a better developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
-
----
-
-## 📂 Projects
-
-🔹 **Project 1** – Practical application using programming logic
-🔹 **Project 2** – Backend-focused project with database integration
-🔹 **Project 3** – Real-world problem solving project
-
-📌 *More projects coming soon...*
-
----
-
-## 📈 Currently Learning
-
-* Full Stack Development
-* Software Architecture
-* Clean Code & Best Practices
-
----
-
-
-## 🤝 Let's Connect
-
-* Open to **internships**, **junior roles**, and **collaborations**
-
----
-
-## ⚡ Philosophy
-
-> "Stay focused. Keep building. Never stop learning."
-
----
-
-⭐ **Always building. Always learning. Always evolving.**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,git,python" />
+</p>
