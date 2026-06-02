@@ -1,6 +1,6 @@
 # Rodrigo Reis
 
-### Software Engineering Student
+### Software Engineering
 
 I'm a software engineering student with a passion for technology, problem-solving, and continuous learning. I focus on building clean and efficient solutions while strengthening my foundations in software development and backend engineering.
 
