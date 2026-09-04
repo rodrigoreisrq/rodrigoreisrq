@@ -4,9 +4,10 @@
 
 `backend developer — java / spring boot`
 
-autodidata, construindo minha base como **desenvolvedor backend em java e spring boot**.
+construindo minha base como **desenvolvedor backend em java e spring boot**.
 
 atualmente cursando **análise de desenvolvimento de sistemas** com foco em conseguir minha primeira posição como backend júnior .
+busco conhecimento e resolução de problemas todos os dias.
 
 tenho migrado projetos de **CLI/Terminal** para **java/spring boot**, seguindo boas práticas de arquitetura em camadas (entities, dto, repositories, services, controllers).
 
