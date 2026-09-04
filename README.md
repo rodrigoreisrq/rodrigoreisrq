@@ -14,27 +14,15 @@
 
 ---
 
-### 🎯 Sobre mim
+###  Sobre mim
 
-- 🎓 Cursando **Ciência da Computação** (Estácio EAD), com planos de seguir também presencialmente na UniJorge
-- 🔭 Buscando minha **primeira vaga como desenvolvedor backend Java/Spring Boot** até o fim de 2026
-- 🧠 Autodidata, trabalhando com um framework próprio de desenvolvimento pessoal (PDI): vagas reais → análise de gaps → metas SMART → entrevistas técnicas
-- 📚 Também estudando matemática do zero até Cálculo, em paralelo à programação
-- 📝 Documento meu progresso com um Dev Log estruturado
-
+-  Cursando **Análise de Desenvolvimento de Sistemas** 
+-  Buscando minha **primeira vaga como desenvolvedor backend Java/Spring Boot** 
+-  Autodidata, trabalhando com um framework próprio de desenvolvimento pessoal (PDI): vagas reais → análise de gaps → metas SMART → entrevistas técnicas
 ---
 
-### 🚀 Projetos em destaque
 
-**[FutStore](https://github.com/rodrigoreisrsz)** — Landing page + backend para loja de calçados esportivos
-Migrando de FastAPI/Supabase para **Java + Spring Boot** (JWT, autenticação, boas práticas de camadas: entities, dto, repositories, services, controllers)
-
-**Java Task Manager CLI** — Gerenciador de tarefas via linha de comando
-Construído com Maven, Gson e persistência em JSON, com cobertura de testes unitários
-
----
-
-### 🛠️ Tecnologias
+###  Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -49,7 +37,7 @@ Construído com Maven, Gson e persistência em JSON, com cobertura de testes uni
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rodrigoreisrsz&show_icons=true&theme=default&hide_border=true&count_private=true" />
@@ -66,7 +54,7 @@ Construído com Maven, Gson e persistência em JSON, com cobertura de testes uni
 
 ---
 
-### 📫 Contato
+###  Contato
 
 <p align="left">
   <a href="https://github.com/rodrigoreisrsz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
